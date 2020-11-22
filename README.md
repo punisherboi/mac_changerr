@@ -1,4 +1,7 @@
 # mac_changerr
-mac değiştirici
-kullanım = python mac_changer.py -i interface -m mac adress
-usage = python mac_changer.py -i interface -m mac adress
+# mac değiştirici
+
+# kullanım = python mac_changer.py -i interface -m mac adress
+# usage = python mac_changer.py -i interface -m mac adress
+
+# valid on linux
